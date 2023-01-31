@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+This is FBV website.
 
-Template Name: Gp
-Template URL: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Website URL: https://furahavb.com
+Author: Furahavb.com
+License: Non
